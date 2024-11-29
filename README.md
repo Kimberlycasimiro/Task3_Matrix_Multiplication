@@ -6,8 +6,8 @@
 **Academic Year:** 2024 / 2025   
 **Author:** Casimiro Torres, Kimberly 
 
----`
-`
+---
+
 ## Execution Environment
 
 The project was developed, configured, and executed in the following environment:
@@ -22,6 +22,7 @@ The project was developed, configured, and executed in the following environment
     - **Manufacturer:** HP
     - **Model:** Victus by HP Gaming Laptop 16-r0xxx
 ---
+
 ## Project Description
 
 This project develops and analyzes various matrix multiplication methods, ranging from a basic algorithm to more advanced parallel and vectorized approaches. The aim is to explore how these techniques improve execution time, efficiency, and resource utilization when working with large matrices.
